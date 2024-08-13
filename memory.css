@@ -1,0 +1,17 @@
+html {
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+#grid {
+    position:absolute;
+    top: 15%;
+    left: 30%;
+    right: 30%;
+}
+
+#grid img {
+    border-right: 4px solid #000000;
+}
